@@ -12,8 +12,6 @@ The Hangman Project is a simple word-guessing game implemented in C++. Players t
 - Visual representation of incorrect guesses
 
 ## Screenshots
-### Main Menu
-![Main Menu](images/main_menu.png)
 
 ### Gameplay
 ![Gameplay](images/gameplay.png)
