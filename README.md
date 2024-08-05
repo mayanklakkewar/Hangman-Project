@@ -42,6 +42,14 @@ The Hangman Project is a simple word-guessing game implemented in C++. Players t
     ```
 2. The game will greet you and display the initial status.
 3. Start guessing letters by typing them and pressing enter.
-4. You have 7 chances to guess the correct word.
+4. You have 6 chances to guess the correct word.
 5. Each incorrect guess will draw another part of the hangman.
 6. The game ends when you either guess the word correctly or run out of chances.
+
+   
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code of conduct.
+
+
+## Contact
+For any questions or suggestions, feel free to open an issue or contact us at mayanklakkewar.work@gmail.com.
